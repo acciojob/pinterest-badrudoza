@@ -12,6 +12,7 @@
 img{
 	width:350px;
 	height:220px;
+	object-fit:cover;
 }
 .hero-info{
 	width:300px;
